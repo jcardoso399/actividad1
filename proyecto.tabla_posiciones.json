@@ -1,0 +1,84 @@
+[{
+  "_id": {
+    "$oid": "6627126ce50dc6375f6a9542"
+  },
+  "equipo": "Manchester City",
+  "puntos": 10,
+  "partidos_jugados": 5,
+  "victorias": 3,
+  "empates": 1,
+  "derrotas": 1,
+  "goles_a_favor": 10,
+  "goles_en_contra": 5,
+  "diferencia_de_goles": 5
+},
+{
+  "_id": {
+    "$oid": "6627126ce50dc6375f6a9543"
+  },
+  "equipo": "Liverpool",
+  "puntos": 10,
+  "partidos_jugados": 5,
+  "victorias": 3,
+  "empates": 1,
+  "derrotas": 1,
+  "goles_a_favor": 9,
+  "goles_en_contra": 7,
+  "diferencia_de_goles": 2
+},
+{
+  "_id": {
+    "$oid": "6627126ce50dc6375f6a9544"
+  },
+  "equipo": "Chelsea",
+  "puntos": 8,
+  "partidos_jugados": 5,
+  "victorias": 2,
+  "empates": 2,
+  "derrotas": 1,
+  "goles_a_favor": 6,
+  "goles_en_contra": 5,
+  "diferencia_de_goles": 1
+},
+{
+  "_id": {
+    "$oid": "6627126ce50dc6375f6a9545"
+  },
+  "equipo": "Arsenal",
+  "puntos": 5,
+  "partidos_jugados": 5,
+  "victorias": 1,
+  "empates": 2,
+  "derrotas": 2,
+  "goles_a_favor": 8,
+  "goles_en_contra": 10,
+  "diferencia_de_goles": -2
+},
+{
+  "_id": {
+    "$oid": "6627126ce50dc6375f6a9546"
+  },
+  "equipo": "Manchester United",
+  "puntos": 4,
+  "partidos_jugados": 5,
+  "victorias": 1,
+  "empates": 1,
+  "derrotas": 3,
+  "goles_a_favor": 4,
+  "goles_en_contra": 8,
+  "diferencia_de_goles": -4
+},
+{
+  "_id": {
+    "$oid": "6627126ce50dc6375f6a9547"
+  },
+  "equipo": "Totemhan United",
+  "puntos": 1,
+  "partidos_jugados": 5,
+  "victorias": 0,
+  "empates": 1,
+  "derrotas": 4,
+  "goles_a_favor": 2,
+  "goles_en_contra": 11,
+  "diferencia_de_goles": -9
+}]

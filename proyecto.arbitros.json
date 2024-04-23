@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "6626b9fbfc93ad9b67b0b1d6"
+  },
+  "nombre": "Michael Oliver",
+  "pais": "Inglaterra",
+  "experiencia": "10 años en la Premier League"
+},
+{
+  "_id": {
+    "$oid": "6626ba32fc93ad9b67b0b1d8"
+  },
+  "nombre": "Martin Atkinson",
+  "pais": "Inglaterra",
+  "experiencia": "12 años en la Premier League"
+},
+{
+  "_id": {
+    "$oid": "6626ba3afc93ad9b67b0b1da"
+  },
+  "nombre": "Anthony Taylor",
+  "pais": "Inglaterra",
+  "experiencia": "9 años en la Premier League"
+},
+{
+  "_id": {
+    "$oid": "6626ba47fc93ad9b67b0b1dc"
+  },
+  "nombre": "Andre Marriner",
+  "pais": "Inglaterra",
+  "experiencia": "15 años en la Premier League"
+},
+{
+  "_id": {
+    "$oid": "6626ba56fc93ad9b67b0b1de"
+  },
+  "nombre": "Craig Pawson",
+  "pais": "Inglaterra",
+  "experiencia": "8 años en la Premier League"
+},
+{
+  "_id": {
+    "$oid": "6626ba67fc93ad9b67b0b1e0"
+  },
+  "nombre": "Mike Dean",
+  "pais": "Inglaterra",
+  "experiencia": "20 años en la Premier League"
+}]

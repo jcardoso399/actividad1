@@ -1,0 +1,310 @@
+[{
+  "_id": {
+    "$oid": "6626c19efc93ad9b67b0b1fa"
+  },
+  "nombre": "Virgil van Dijk",
+  "equipo": "Liverpool",
+  "posicion": "Defensa",
+  "edad": 30,
+  "nacionalidad": "Países Bajos"
+},
+{
+  "_id": {
+    "$oid": "6626c1a5fc93ad9b67b0b1fc"
+  },
+  "nombre": "Sadio Mané",
+  "equipo": "Liverpool",
+  "posicion": "Delantero",
+  "edad": 29,
+  "nacionalidad": "Senegal"
+},
+{
+  "_id": {
+    "$oid": "6626c1b2fc93ad9b67b0b1fe"
+  },
+  "nombre": "Trent Alexander-Arnold",
+  "equipo": "Liverpool",
+  "posicion": "Defensa",
+  "edad": 23,
+  "nacionalidad": "Inglaterra"
+},
+{
+  "_id": {
+    "$oid": "6626c1c2fc93ad9b67b0b200"
+  },
+  "nombre": "Jordan Henderson",
+  "equipo": "Liverpool",
+  "posicion": "Centrocampista",
+  "edad": 31,
+  "nacionalidad": "Inglaterra"
+},
+{
+  "_id": {
+    "$oid": "6626c1d7fc93ad9b67b0b202"
+  },
+  "nombre": "Roberto Firmino",
+  "equipo": "Liverpool",
+  "posicion": "Delantero",
+  "edad": 30,
+  "nacionalidad": "Brasil"
+},
+{
+  "_id": {
+    "$oid": "6626c1defc93ad9b67b0b204"
+  },
+  "nombre": "Andrew Robertson",
+  "equipo": "Liverpool",
+  "posicion": "Defensa",
+  "edad": 28,
+  "nacionalidad": "Escocia"
+},
+{
+  "_id": {
+    "$oid": "6626c1f4fc93ad9b67b0b206"
+  },
+  "nombre": "Diogo Jota",
+  "equipo": "Liverpool",
+  "posicion": "Delantero",
+  "edad": 25,
+  "nacionalidad": "Portugal"
+},
+{
+  "_id": {
+    "$oid": "6626c1fffc93ad9b67b0b208"
+  },
+  "nombre": "Fabinho",
+  "equipo": "Liverpool",
+  "posicion": "Centrocampista",
+  "edad": 28,
+  "nacionalidad": "Brasil"
+},
+{
+  "_id": {
+    "$oid": "6626c21ffc93ad9b67b0b20a"
+  },
+  "nombre": "Alisson Becker",
+  "equipo": "Liverpool",
+  "posicion": "Portero",
+  "edad": 29,
+  "nacionalidad": "Brasil"
+},
+{
+  "_id": {
+    "$oid": "6626c234fc93ad9b67b0b20c"
+  },
+  "nombre": "Joël Matip",
+  "equipo": "Liverpool",
+  "posicion": "Defensa",
+  "edad": 30,
+  "nacionalidad": "Camerún"
+},
+{
+  "_id": {
+    "$oid": "6626c23efc93ad9b67b0b20e"
+  },
+  "nombre": "Curtis Jones",
+  "equipo": "Liverpool",
+  "posicion": "Centrocampista",
+  "edad": 21,
+  "nacionalidad": "Inglaterra"
+},
+{
+  "_id": {
+    "$oid": "6626c868fc93ad9b67b0b210"
+  },
+  "nombre": "Kevin De Bruyne",
+  "equipo": "Manchester City",
+  "posicion": "Centrocampista",
+  "edad": 30,
+  "nacionalidad": "Bélgica"
+},
+{
+  "_id": {
+    "$oid": "6626c870fc93ad9b67b0b212"
+  },
+  "nombre": "Ruben Dias",
+  "equipo": "Manchester City",
+  "posicion": "Defensa",
+  "edad": 24,
+  "nacionalidad": "Portugal"
+},
+{
+  "_id": {
+    "$oid": "6626c878fc93ad9b67b0b214"
+  },
+  "nombre": "Phil Foden",
+  "equipo": "Manchester City",
+  "posicion": "Centrocampista",
+  "edad": 21,
+  "nacionalidad": "Inglaterra"
+},
+{
+  "_id": {
+    "$oid": "6626c890fc93ad9b67b0b216"
+  },
+  "nombre": "Phil Foden",
+  "equipo": "Manchester City",
+  "posicion": "Centrocampista",
+  "edad": 21,
+  "nacionalidad": "Inglaterra"
+},
+{
+  "_id": {
+    "$oid": "6626c8a6fc93ad9b67b0b218"
+  },
+  "nombre": "Bernardo Silva",
+  "equipo": "Manchester City",
+  "posicion": "Centrocampista",
+  "edad": 27,
+  "nacionalidad": "Portugal"
+},
+{
+  "_id": {
+    "$oid": "6626c8cefc93ad9b67b0b21a"
+  },
+  "nombre": "João Cancelo",
+  "equipo": "Manchester City",
+  "posicion": "Defensa",
+  "edad": 27,
+  "nacionalidad": "Portugal"
+},
+{
+  "_id": {
+    "$oid": "6626c8d9fc93ad9b67b0b21c"
+  },
+  "nombre": "Riyad Mahrez",
+  "equipo": "Manchester City",
+  "posicion": "Delantero",
+  "edad": 31,
+  "nacionalidad": "Argelia"
+},
+{
+  "_id": {
+    "$oid": "6626c8e2fc93ad9b67b0b21e"
+  },
+  "nombre": "Rodri",
+  "equipo": "Manchester City",
+  "posicion": "Centrocampista",
+  "edad": 25,
+  "nacionalidad": "España"
+},
+{
+  "_id": {
+    "$oid": "6626c913fc93ad9b67b0b220"
+  },
+  "nombre": "Kyle Walker",
+  "equipo": "Manchester City",
+  "posicion": "Defensa",
+  "edad": 31,
+  "nacionalidad": "Inglaterra"
+},
+{
+  "_id": {
+    "$oid": "6626c91afc93ad9b67b0b222"
+  },
+  "nombre": "Ilkay Gündogan",
+  "equipo": "Manchester City",
+  "posicion": "Centrocampista",
+  "edad": 31,
+  "nacionalidad": "Alemania"
+},
+{
+  "_id": {
+    "$oid": "6626c924fc93ad9b67b0b224"
+  },
+  "nombre": "Aymeric Laporte",
+  "equipo": "Manchester City",
+  "posicion": "Defensa",
+  "edad": 27,
+  "nacionalidad": "Francia"
+},
+{
+  "_id": {
+    "$oid": "6626c932fc93ad9b67b0b226"
+  },
+  "nombre": "Ederson",
+  "equipo": "Manchester City",
+  "posicion": "Arquero",
+  "edad": 28,
+  "nacionalidad": "Brasil"
+},
+{
+  "_id": {
+    "$oid": "6626cea6fc93ad9b67b0b228"
+  },
+  "nombre": "David De Gea",
+  "equipo": "Manchester United",
+  "posicion": "Arquero",
+  "edad": 31,
+  "nacionalidad": "España"
+},
+{
+  "_id": {
+    "$oid": "6626ceb4fc93ad9b67b0b22a"
+  },
+  "nombre": "Harry Maguire",
+  "equipo": "Manchester United",
+  "posicion": "Defensa",
+  "edad": 28,
+  "nacionalidad": "Inglaterra"
+},
+{
+  "_id": {
+    "$oid": "6626cebcfc93ad9b67b0b22c"
+  },
+  "nombre": "Bruno Fernandes",
+  "equipo": "Manchester United",
+  "posicion": "Centrocampista",
+  "edad": 27,
+  "nacionalidad": "Portugal"
+},
+{
+  "_id": {
+    "$oid": "6626cec6fc93ad9b67b0b22e"
+  },
+  "nombre": "Marcus Rashford",
+  "equipo": "Manchester United",
+  "posicion": "Delantero",
+  "edad": 24,
+  "nacionalidad": "Inglaterra"
+},
+{
+  "_id": {
+    "$oid": "6626cedffc93ad9b67b0b230"
+  },
+  "nombre": "Luke Shaw",
+  "equipo": "Manchester United",
+  "posicion": "Defensa",
+  "edad": 26,
+  "nacionalidad": "Inglaterra"
+},
+{
+  "_id": {
+    "$oid": "6626cee6fc93ad9b67b0b232"
+  },
+  "nombre": "Luke Shaw",
+  "equipo": "Manchester United",
+  "posicion": "Defensa",
+  "edad": 26,
+  "nacionalidad": "Inglaterra"
+},
+{
+  "_id": {
+    "$oid": "6626cf60fc93ad9b67b0b234"
+  },
+  "nombre": "David De Gea",
+  "equipo": "Manchester United",
+  "posicion": "Arquero",
+  "edad": 31,
+  "nacionalidad": "España"
+},
+{
+  "_id": {
+    "$oid": "6626cf95fc93ad9b67b0b236"
+  },
+  "nombre": "David De Gea",
+  "equipo": "Manchester United",
+  "posicion": "Arquero",
+  "edad": 31,
+  "nacionalidad": "España"
+}]

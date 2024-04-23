@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "6626ac80fc93ad9b67b0b1c9"
+  },
+  "nombre": "Manchester United",
+  "pais": "Inglaterra",
+  "estadio": "Old Trafford"
+},
+{
+  "_id": {
+    "$oid": "6626adc4fc93ad9b67b0b1cb"
+  },
+  "nombre": "Liverpool",
+  "pais": "Inglaterra",
+  "estadio": "Anfield"
+},
+{
+  "_id": {
+    "$oid": "6626adcffc93ad9b67b0b1cd"
+  },
+  "nombre": "Manchester City",
+  "pais": "Inglaterra",
+  "estadio": "Etihad Stadium"
+},
+{
+  "_id": {
+    "$oid": "6626ade9fc93ad9b67b0b1cf"
+  },
+  "nombre": "Chelsea",
+  "pais": "Inglaterra",
+  "estadio": "Stamford Bridge"
+},
+{
+  "_id": {
+    "$oid": "6626adf4fc93ad9b67b0b1d1"
+  },
+  "nombre": "Arsenal",
+  "pais": "Inglaterra",
+  "estadio": "Emirates Stadium"
+},
+{
+  "_id": {
+    "$oid": "6626adfffc93ad9b67b0b1d3"
+  },
+  "nombre": "Tottenham Hotspur",
+  "pais": "Inglaterra",
+  "estadio": "Tottenham Hotspur Stadium"
+}]

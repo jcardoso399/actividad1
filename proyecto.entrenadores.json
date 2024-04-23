@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "6626bc31fc93ad9b67b0b1e3"
+  },
+  "nombre": "Ole Gunnar Solskjær",
+  "equipo": "Manchester United",
+  "pais": "Noruega",
+  "experiencia": "Exjugador del Manchester United, 5 años como entrenador"
+},
+{
+  "_id": {
+    "$oid": "6626bc38fc93ad9b67b0b1e5"
+  },
+  "nombre": "Jurgen Klopp",
+  "equipo": "Liverpool",
+  "pais": "Alemania",
+  "experiencia": "Exentrenador del Borussia Dortmund, 6 años como entrenador"
+},
+{
+  "_id": {
+    "$oid": "6626bc40fc93ad9b67b0b1e7"
+  },
+  "nombre": "Pep Guardiola",
+  "equipo": "Manchester City",
+  "pais": "España",
+  "experiencia": "Exentrenador del FC Barcelona y Bayern de Múnich, 8 años como entrenador"
+},
+{
+  "_id": {
+    "$oid": "6626bc4ffc93ad9b67b0b1e9"
+  },
+  "nombre": "Thomas Tuchel",
+  "equipo": "Chelsea",
+  "pais": "Alemania",
+  "experiencia": "Exentrenador del Borussia Dortmund y Paris Saint-Germain, 7 años como entrenador"
+},
+{
+  "_id": {
+    "$oid": "6626bc62fc93ad9b67b0b1eb"
+  },
+  "nombre": "Mikel Arteta",
+  "equipo": "Arsenal",
+  "pais": "España",
+  "experiencia": "Exjugador del Arsenal, 3 años como entrenador"
+},
+{
+  "_id": {
+    "$oid": "6626bc7efc93ad9b67b0b1ed"
+  },
+  "nombre": "Totemhan",
+  "equipo": "Totemhan United",
+  "pais": "Desconocido",
+  "experiencia": "Entrenador debutante en la Premier League"
+}]
